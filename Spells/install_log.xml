@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="Spells" Build_date="11/23/2018 5:45:46 PM">
+  <Files>
+    <Directory Path="D:\moddingdir\TheWitcher3\bin\x64\witcher3.exe\..\..\..\DLC">
+      <Directory Path="D:\moddingdir\TheWitcher3\bin\x64\witcher3.exe\..\..\..\DLC\dlcSpells">
+        <Directory Path="D:\moddingdir\TheWitcher3\bin\x64\witcher3.exe\..\..\..\DLC\dlcSpells\content">
+          <file>D:\moddingdir\TheWitcher3\bin\x64\witcher3.exe\..\..\..\DLC\dlcSpells\content\blob0.bundle</file>
+          <file>D:\moddingdir\TheWitcher3\bin\x64\witcher3.exe\..\..\..\DLC\dlcSpells\content\metadata.store</file>
+        </Directory>
+      </Directory>
+    </Directory>
+    <Directory Path="D:\moddingdir\TheWitcher3\bin\x64\witcher3.exe\..\..\..\Mods">
+      <Directory Path="D:\moddingdir\TheWitcher3\bin\x64\witcher3.exe\..\..\..\Mods\modSpells">
+        <Directory Path="D:\moddingdir\TheWitcher3\bin\x64\witcher3.exe\..\..\..\Mods\modSpells\content">
+          <file>D:\moddingdir\TheWitcher3\bin\x64\witcher3.exe\..\..\..\Mods\modSpells\content\blob0.bundle</file>
+          <file>D:\moddingdir\TheWitcher3\bin\x64\witcher3.exe\..\..\..\Mods\modSpells\content\metadata.store</file>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>

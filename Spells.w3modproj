@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<W3Mod xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LastOpenedFiles>
+    <string>D:\moddingdir\wkitdata\modSpells\Spells\files\DLC\Bundle\dlc\rfitem\data\w2ent\spell_superconductor.w2ent</string>
+    <string>D:\moddingdir\wkitdata\modSpells\Spells\files\DLC\Bundle\dlc\rfitem\data\w2ent\spell_sparks.w2ent</string>
+    <string>D:\moddingdir\wkitdata\modSpells\Spells\files\DLC\Bundle\dlc\rfitem\data\w2ent\spell_sparks.w2ent:CEntityTemplate #1/flatCompiledData</string>
+  </LastOpenedFiles>
+  <Name>Spells</Name>
+</W3Mod>
